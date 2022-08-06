@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodMaker
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning new things, more specifically going through the Creative Core Pathway
+- 🌱 I’m currently learning new things, more specifically going through the Creative Core Pathway and CS50
 - 💞️ I’m looking to collaborate on projects, learning programs, gamejams
 - 📫 How to reach me smoke signals, pidgeon mail, myspace, daydreams
 - &#128377; You can play most of my projects including some of the private ones (that I cannot publicly share due to copyright) over at https://play.unity.com/u/RodMaker  
