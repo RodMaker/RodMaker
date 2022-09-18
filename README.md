@@ -6,7 +6,7 @@
 - &#128377; You can play most of my projects including some of the private ones (that I cannot publicly share due to having paid 3d models) over here: https://play.unity.com/u/RodMaker  
 Track the completed tutorials at Unity Learn platform here: https://learn.unity.com/u/60909647edbc2a7e6443f63d?tab=profile  
 Check my submission for GMTK's Game Jam 22 here: https://rodmaker.itch.io/ivorytower   
-Check my submission for Brackey's Game Jam 22 here: https://rodmaker.itch.io/yourenotalone
+Check my submission for Brackey's Game Jam 22 here: https://rodmaker.itch.io/yourenotalone  
 Check my latest game here: https://rodmaker.itch.io/candy-chop
 
 
