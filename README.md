@@ -7,6 +7,7 @@
 Track the completed tutorials at Unity Learn platform here: https://learn.unity.com/u/60909647edbc2a7e6443f63d?tab=profile  
 Check my submission for GMTK's Game Jam 22 here: https://rodmaker.itch.io/ivorytower   
 Check my submission for Brackey's Game Jam 22 here: https://rodmaker.itch.io/yourenotalone
+Check my latest game here: https://rodmaker.itch.io/candy-chop
 
 
 
