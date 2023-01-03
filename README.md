@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodMaker
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning new things, more specifically going through CS50
+- 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on projects, learning programs, gamejams
 - 📫 How to reach me smoke signals, pidgeon mail, myspace, daydreams
 - &#128377; You can play most of my projects including some of the private ones (that I cannot publicly share due to having paid 3d models) over here: https://play.unity.com/u/RodMaker  
