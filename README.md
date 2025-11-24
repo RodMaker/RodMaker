@@ -8,6 +8,7 @@ Track the completed tutorials at Unity Learn platform here: https://learn.unity.
 Check my submission for GMTK's Game Jam 22 here: https://rodmaker.itch.io/ivorytower   
 Check my submission for Brackey's Game Jam 22 here: https://rodmaker.itch.io/yourenotalone  
 Check my games here: https://rodmaker.itch.io/
+
 [![wakatime](https://wakatime.com/badge/user/5e3f88f6-32ac-4afc-83d1-ed5ebc5ec26a.svg)](https://wakatime.com/@5e3f88f6-32ac-4afc-83d1-ed5ebc5ec26a)
 
 
